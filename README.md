@@ -55,5 +55,4 @@ Après un entraînement de **30 époques**, le modèle atteint une **précision 
 
 Les courbes d'apprentissage ci-dessous montrent la précision et la perte pendant l'entraînement :
 
-![Courbe de Précision](images/precision.png)
-![Courbe de Perte](images/loss.png)
+![Courbe de Précision](images/resultats.png)
